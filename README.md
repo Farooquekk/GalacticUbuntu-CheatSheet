@@ -1,8 +1,15 @@
+<!-- Alien X Background Styling (GitHub README) -->
+
+<div style="background: linear-gradient(135deg, #003300, #000000); color: #ffffff; padding: 20px; border-radius: 8px; display: flex; flex-direction: column; align-items: center;">
+
 ![Alien X Animation](https://i.pinimg.com/originals/9e/db/f3/9edbf3fbf3eb45849fe254d4e4904a3a.gif)
 
-# 👽💫 Galactic Ubuntu Cheat Sheet 💫👽
 
-*Welcome to the ultimate cosmic guide for essential Ubuntu commands! This cheat sheet is designed to help you navigate and master your interstellar computing adventures.* 💥
+# 👽💫 Alien X Ubuntu Command Guide 💫👽
+
+*Welcome to the ultimate, otherworldly guide for Ubuntu commands, inspired by the cosmic power and control of Alien X!* This cheat sheet includes powerful commands that will help you navigate your system with ease. 💥
+
+
 
 ---
 
@@ -125,4 +132,7 @@ Control access with absolute authority:
 > - Use `man <command>` 📜 to access the manual for any command and explore its full potential.
 > - `sudo` commands hold supreme power – use with caution!
 
+---
 👽 Embrace the power and explore the cosmic potential of your Ubuntu system with these commands! Happy hacking! 💻
+
+</div>
