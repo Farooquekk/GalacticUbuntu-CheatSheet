@@ -1,15 +1,8 @@
-<!-- Alien X Background Styling (GitHub README) -->
-
-
-
 ![Alien X Animation](https://raw.githubusercontent.com/Farooquekk/GalacticUbuntu-CheatSheet/main/AlienImages.gif)
-
 
 # 👽💫 Alien X Ubuntu Command Guide 💫👽
 
 *Welcome to the ultimate, otherworldly guide for Ubuntu commands, inspired by the cosmic power and control of Alien X!* This cheat sheet includes powerful commands that will help you navigate your system with ease. 💥
-
-
 
 ---
 
@@ -133,6 +126,5 @@ Control access with absolute authority:
 > - `sudo` commands hold supreme power – use with caution!
 
 ---
-👽 Embrace the power and explore the cosmic potential of your Ubuntu system with these commands! Happy hacking! 💻
 
-</div>
+👽 Embrace the power and explore the cosmic potential of your Ubuntu system with these commands! Happy hacking! 💻
