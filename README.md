@@ -1,4 +1,3 @@
-![Alien X Animation](https://raw.githubusercontent.com/Farooquekk/GalacticUbuntu-CheatSheet/main/AlienImages.gif)
 
 # 👽💫 Alien X Ubuntu Command Guide 💫👽
 
